@@ -7,7 +7,7 @@
 - modello               VARCHAR(255) NOTNULL                            <!-- Stelvio -->
 - allestimento          VARCHAR(255) NULL                               <!-- Q4 Super 2.2 -->
 - categoria             VARCHAR(100) NULL                               <!-- Suv/fuoristrada -->
-- alimentazione         VARCHAR(100) NOTNULL                            <!-- Benzina/Deesel -->        
+- alimentazione         VARCHAR(100) NOTNULL                            <!-- Benzina/Diesel-->        
 - casa produttrice      VARCHAR(100) NULL                               <!-- Alfa Romeo -->
 - immatricolazione      YEAR NOTNULL                                    <!-- YYYY -->
 - km percorsi           SMALL NOTNULL                                   <!-- 9800 KM -->
